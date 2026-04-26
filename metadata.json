@@ -1,0 +1,6 @@
+{
+  "name": "Py Data Desk",
+  "description": "An offline-capable Python data processing command reference tool covering pandas, numpy, scipy, statsmodels, scikit-learn, keras, gensim, seaborn, and matplotlib.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
